@@ -5,10 +5,6 @@ Estou em início de carreira de desenvolvedor, estudando integralmente a 2 anos,
 
 ### 👤 Sobre:
 
-- :man_technologist: Estou atualmente estudando o ultimo modulo de ciência da computação da Trybe.
-
-- 💬 Pode me fazer perguntas sobre: **react,  nodejs**
-
 - 📫 Onde me encontrar: **tomasdc2016@gmail.com**
 
 - ⛑️ Se conecte comigo no [LinkedIn](https://www.linkedin.com/in/tomas-avelino-6b1547238/)
