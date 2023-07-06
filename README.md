@@ -1,9 +1,10 @@
 
 <h1 align="center">Olá 👋, Seja bem vindo</h1>
 
-Dev.Jr, estudando, praticando e desenvolvendo projetos integralmente a 2 anos, irei me formar no curso de desenvolvimento web full-stack da trybe em março/23, nesse último ano tive oportunidade de desenvolver mais de 20 projetos que visam ensinar o que o mercado de trabalho pede, pude aprender o que tem de mais moderno na programação, Sou uma pessoa extremamente colaborativa, que me comunico muito bem e adoro receber feedbacks, sou apaixonado por tecnologia e inovação.
+Desenvolvedor web, estudando, praticando e desenvolvendo projetos integralmente a 2 anos, conclui o curso de desenvolvedor web full-stack da trybe em abril/23, nesse último ano tive oportunidade de desenvolver mais de 20 projetos que visam ensinar o que o mercado de trabalho pede, pude aprender o que tem de mais moderno na programação, Sou uma pessoa extremamente colaborativa, que me comunico muito bem e busco sempre estar me atualizando, sou apaixonado por tecnologia e inovação.
 
 ### 👤 Sobre:
+- Atualmente estudando Java e Spring, me apaixonei por POO.
 
 - 📫 Onde me encontrar: **tomasdc2016@gmail.com**
 
